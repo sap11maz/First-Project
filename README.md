@@ -16,4 +16,4 @@ First project on github.Searching for new ideas.
                        {
                          cout<<bno;
                         }           
-.
+
