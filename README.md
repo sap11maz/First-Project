@@ -1,5 +1,6 @@
 # First-Project
 First project on github.Searching for new ideas.
+Nice Idea!
 #include<iostream>
   using name space std;
   int i,a[1000],bno;
